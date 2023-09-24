@@ -1,6 +1,5 @@
 # Hi there, I'm Yavor 👋
 
-hey
 ## Currently studying Python @SoftUni
 
 - 👯 I’m looking to collaborate with other people who are willing to improve
