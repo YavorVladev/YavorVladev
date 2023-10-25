@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I love to draw and play the piano
 - Currently looking for a professional opportunity as a software developer
 
+- 
+
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
