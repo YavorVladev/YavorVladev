@@ -1,6 +1,5 @@
 # Hi there, I'm Yavor 👋
 
-## Currently studying Python @SoftUni
 
 - 👯 I’m looking to collaborate with other people who are willing to improve.
 - 🥅 2023 Goals: Learn more algorithms.
