@@ -1,4 +1,4 @@
-# Hi there, I'm Yavor 👋
+# Hi there, I'm Yavor. 👋
 
 
 - 👯 I’m looking to collaborate with other people who are willing to improve.
