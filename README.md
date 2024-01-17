@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with other people who are willing to improve.
 - 🥅 2023 Goals: Learn more algorithms.
 - ⚡ Fun fact: I love to draw and play the piano..
-- 🥅 Currently looking for a professional opportunity as a software developer.
+- 🥅 Currently looking for a professional opportunity as a software developer..
   
 
 
