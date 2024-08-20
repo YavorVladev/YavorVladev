@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate with other people who are willing to improve.
 - 🥅 2025 Goals: Learn more algorithms.
-- ⚡ Fun fact: I love to draw and play the piano.
+- ⚡ Fact about me: In my free time I'm composing and playing the piano 
 - 🥅 Currently looking for a professional opportunity as a software developer.
   
 
